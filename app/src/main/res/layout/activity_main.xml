@@ -59,7 +59,7 @@
 
     </RadioGroup>
 
-
+    <!--using material switch component.-->
     <com.google.android.material.switchmaterial.SwitchMaterial
         android:id="@+id/round_up_switch"
         android:layout_width="0dp"
